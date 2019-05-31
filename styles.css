@@ -1,0 +1,126 @@
+.image {
+    width: 750px;
+    height: 500px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    border: dotted yellow 10px;
+}
+
+
+.quotes {
+    width: 250px;
+    height: 300px;
+    margin:5px;
+    padding: 5px;
+}
+
+h3 {
+    font-family: 'Charm', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.info {
+text-align: left;
+border: solid 2px;
+width: 300px;
+background: white;
+}
+
+
+
+.button {
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    border: 10px groove ;
+    background-color: grey;
+    padding: 14px;
+    font-size: 38px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background: black;
+}
+    
+.slogan {
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    border: dotted 4px;
+    background-color: gold;
+    padding: 80px;
+    border-radius: 100px;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+}
+
+.highlights{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background: black;
+}
+
+h2 {
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    border: solid 4px;
+    
+}
+
+.lines {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background: black;
+}
+.sayings {
+    display: flex;
+    padding: 5px;
+    background: black;
+   
+}
+
+body {
+    background-color: darkblue;
+}
+    
+.characteristics {
+    background: yellow;
+    padding: 5px;
+    border: ridge black 20px;
+}
+
+.end {
+    background:yellow;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 100px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
